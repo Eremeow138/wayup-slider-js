@@ -34,7 +34,10 @@ body {
 #btn-next {
   opacity: 0.6;
 }
-
+#btn-prev:hover,
+#btn-next:hover{
+  opacity: 0.8;
+}
 #btn-next {
   left: auto;
   right: 0;
